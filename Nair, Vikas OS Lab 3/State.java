@@ -1,0 +1,1 @@
+public enum State { INIT, REQ, REL, TERM, END }
